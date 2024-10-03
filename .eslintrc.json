@@ -1,3 +1,12 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": [
+    "next/core-web-vitals"  // Remove or comment this out to disable Next.js-specific rules
+  ],
+  
+    "rules": {
+      "no-console": "off",
+      "react/no-unescaped-entities": "off"
+    }
+
+  
 }

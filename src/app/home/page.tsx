@@ -2,7 +2,6 @@
 import { motion } from "framer-motion";
 import { HeroHighlight, Highlight } from "@/app/components/ui/hero-highlight";
 import { Button } from "@/app/components/ui/moving-border";
-import { IconDownload } from "@tabler/icons-react";
 
 const Hero = () => {
   return (

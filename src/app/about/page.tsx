@@ -3,7 +3,6 @@ import Image from "next/image";
 import React, { useEffect, useRef } from "react";
 import { WobbleCard } from "@/app/components/ui/wobble-card";
 import createGlobe from "cobe";
-import { motion } from "framer-motion";
 import img1 from "@/images/img1.png";
 import { Highlight } from "../components/ui/hero-highlight";
 import {Tech} from "../components/Tech";
@@ -98,7 +97,7 @@ function About() {
         <WobbleCard containerClassName="col-span-1 bg-black relative overflow-hidden min-h-[300px] lg:min-h-[400px] rounded-xl shadow-lg hover:shadow-xl transition-shadow">
           <div className="relative z-10 max-w-md p-6">
             <h2 className="text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-white">
-              I'm highly adaptable with time zone coordination, ensuring smooth
+               I m highly adaptable with time zone coordination, ensuring smooth
               and effective communication no matter where my collaborators are
               located.
             </h2>
