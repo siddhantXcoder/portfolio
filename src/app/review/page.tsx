@@ -38,32 +38,29 @@ const Review = () => {
 
   const testimonials = [
     {
-      quote: "",
+      quote: "It's great to see your dedication, Siddhant! You always push boundaries and aim for perfection.",
       name: "Deepanshu Sahu",
-      title: "A Tale of Two Cities",
+      title: "Software Developer",
     },
     {
-      quote:
-        "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-      name: "William Shakespeare",
-      title: "Hamlet",
+      quote: "Siddhant's attention to detail and passion for coding make him a standout developer. His commitment to his work is truly inspiring.",
+      name: "Ayush Chouksey",
+      title: "Software Developer",
     },
     {
-      quote: "All that we see or seem is but a dream within a dream.",
-      name: "Edgar Allan Poe",
-      title: "A Dream Within a Dream",
+      quote: "Siddhant is the kind of developer who never settles for average. His drive to constantly improve is admirable.",
+      name: "Shivendra Singh Chandel",
+      title: "Full Stack Developer",
     },
     {
-      quote:
-        "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-      name: "Jane Austen",
-      title: "Pride and Prejudice",
+      quote: "Siddhant's work ethic is unmatched. His dedication as a software developer sets him apart from the rest.",
+      name: "Sachin Pal",
+      title: "Electronic Communication Engineer",
     },
     {
-      quote:
-        "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-      name: "Herman Melville",
-      title: "Moby-Dick",
+      quote: "Siddhant's passion for software development shines through in everything he does. He is constantly learning and pushing the envelope.",
+      name: "Sheryansh Patel",
+      title: "Software Engineer",
     },
   ];
 

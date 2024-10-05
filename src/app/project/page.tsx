@@ -14,7 +14,7 @@ import { Highlight } from "../components/ui/hero-highlight";
 
 function Hero() {
   return (
-    <div className="flex flex-col justify-center items-center">
+    <div className="flex flex-col justify-center  items-center">
       <div>
       <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl mt-6 font-bold text-center text-gray-100 mb-8">
           Some Of My{ " "} <Highlight className="">Project.</Highlight>

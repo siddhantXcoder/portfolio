@@ -40,12 +40,12 @@ const Hero = () => {
           href="mailto:siddhant123salve@gmail.com"
           className="flex justify-center"
         >
-           <Button
-              borderRadius="1.75rem"
-              className="w-full bg-black dark:bg-slate-900 text-black dark:text-white border-neutral-200 dark:border-slate-800"
-            >
-              Let's Connect 🔥
-            </Button>
+          <Button
+            borderRadius="1.75rem"
+            className="w-full bg-black "
+          >
+            Let's Connect 🔥
+          </Button>
         </a>
       </motion.div>
     </HeroHighlight>

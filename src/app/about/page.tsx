@@ -56,7 +56,7 @@ export const Globe = ({ className }: { className?: string }) => {
 
 function About() {
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center py-10 px-4 sm:px-8 w-full">
+    <div className="min-h-screen top-10 flex flex-col justify-center items-center py-10 px-4 sm:px-8 w-full">
       {/* Introduction Section */}
       <div className="flex items-center justify-center flex-col text-center mb-10">
         <p className="mt-6 text-lg md:text-xl lg:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl">
